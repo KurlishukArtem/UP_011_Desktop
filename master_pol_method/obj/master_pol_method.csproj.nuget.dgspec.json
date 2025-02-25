@@ -33,8 +33,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Николямба\\Downloads\\master_pol\\master_pol\\master_pol.csproj": {
-                "projectPath": "C:\\Users\\Николямба\\Downloads\\master_pol\\master_pol\\master_pol.csproj"
+              "C:\\master_pol\\master_pol\\master_pol.csproj": {
+                "projectPath": "C:\\master_pol\\master_pol\\master_pol.csproj"
               }
             }
           }

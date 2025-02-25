@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="C:\Users\Николямба\Downloads\master_pol\master_pol\master_pol.csproj" />
+    <ProjectReference Include="\master_pol\master_pol\master_pol.csproj" />
   </ItemGroup>
 
 </Project>

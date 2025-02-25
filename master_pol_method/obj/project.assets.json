@@ -6,7 +6,7 @@
   "libraries": {},
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "C:\\Users\\Николямба\\Downloads\\master_pol\\master_pol\\master_pol.csproj"
+      "C:\\master_pol\\master_pol\\master_pol.csproj"
     ]
   },
   "packageFolders": {
@@ -42,8 +42,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Николямба\\Downloads\\master_pol\\master_pol\\master_pol.csproj": {
-              "projectPath": "C:\\Users\\Николямба\\Downloads\\master_pol\\master_pol\\master_pol.csproj"
+            "C:\\master_pol\\master_pol\\master_pol.csproj": {
+              "projectPath": "C:\\master_pol\\master_pol\\master_pol.csproj"
             }
           }
         }
@@ -90,8 +90,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Не удалось найти проект \"C:\\Users\\Николямба\\Downloads\\master_pol\\master_pol\\master_pol.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
-      "libraryId": "C:\\Users\\Николямба\\Downloads\\master_pol\\master_pol\\master_pol.csproj",
+      "message": "Не удалось найти проект \"C:\\master_pol\\master_pol\\master_pol.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\master_pol\\master_pol\\master_pol.csproj",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
       ]
