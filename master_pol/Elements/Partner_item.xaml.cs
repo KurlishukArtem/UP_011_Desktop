@@ -42,7 +42,7 @@ namespace master_pol.Elements
                 if (count >= 10000 && count < 50000)
                     return 5;
                 else if (count >= 50000 && count < 300000)
-                    return 10;
+                    return 10; 
                 else if (count >= 300000)
                     return 15;
                 else
