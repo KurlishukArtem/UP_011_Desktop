@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("master_pol_method")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+287fc3f5c825c5c02b965501dc90908a32e65b1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fc1496050f0e09d34f7441a524a14ed647ec83d")]
 [assembly: System.Reflection.AssemblyProductAttribute("master_pol_method")]
 [assembly: System.Reflection.AssemblyTitleAttribute("master_pol_method")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
